@@ -82,9 +82,3 @@ On Windows, you can also try:
 ## Conclusion
 
 The Sales Data Calculator demonstrates how Python can automate basic numerical analysis and summarize sales data efficiently.
-
-## Project Links
-
-GitHub Repository: Add your actual repository URL.
-
-LinkedIn Project Post: Add your published LinkedIn URL.
